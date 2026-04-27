@@ -1,0 +1,11 @@
+beautifulsoup4
+exceptiongroup
+img2pdf
+Pillow
+pikepdf
+PyYAML
+requests
+selenium
+sniffio
+typing_extensions
+webdriver-manager

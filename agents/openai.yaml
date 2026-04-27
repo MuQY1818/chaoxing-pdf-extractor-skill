@@ -1,0 +1,4 @@
+interface:
+  display_name: "Chaoxing PDF Extractor"
+  short_description: "Extract Chaoxing course images into PDFs"
+  default_prompt: "Use $chaoxing-pdf-extractor to extract PPT or document images from a Chaoxing course page into PDFs."
